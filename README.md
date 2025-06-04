@@ -9,6 +9,11 @@
 
 - [x] InGame
 
+## TO BE ADDED
+- [x] Events
+- [x] Looting
+- [x] Lategame
+
 ## Installation
 
 1. Clone this repository or download it
